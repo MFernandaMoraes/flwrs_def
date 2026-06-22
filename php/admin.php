@@ -30,7 +30,7 @@
     <!-- admin overview hero (estilo adaptado da home) -->
     <div class="admin-hero">
         <div class="admin-greeting">
-            <h2>Olá, <span>gestor floral</span> 🌸<br> Bem-vindo ao painel Flwrs.</h2>
+            <h2>Bem-vindo ao painel flwrs.</h2>
             <div class="hero-sub" style="margin-top: 0.8rem; border-left-color: #deef6e; max-width: 480px;">
                 <p>Gerencie pedidos, atualize o catálogo e acompanhe os arranjos com amor e precisão.</p>
             </div>

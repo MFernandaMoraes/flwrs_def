@@ -478,25 +478,6 @@ footer p {
     margin-top: 0.3rem;
 }
 
-/* .fed-pet {
-    flex:0.8; 
-    background:#f7d5e7;
-    border-radius: 70% 30% 60% 40% / 40% 60% 30% 70%;
-    min-height: 170px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: linear-gradient(145deg, #deef6e, #b2e4b3, #f7d5e7);
-    background-size: 180% 180%;
-}
-
-.fed-pet span {
-    background:#fefaf5e0;
-    padding: 1rem 2rem;
-    border-radius: 50px;
-    font-size: 1rem;
-} */
-
 /* ===== TOAST ===== */
 #toastMsg {
     position: fixed;
@@ -622,5 +603,3 @@ footer p {
         font-size: 1.3rem;
     }
 }
-
-
