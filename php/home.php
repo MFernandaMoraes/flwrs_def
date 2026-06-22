@@ -80,7 +80,7 @@
         <div class="sobre-texto">
           <h4><strong>sobre nós</strong> · flores que sentem</h4>
           <p>Nascemos do desejo de transformar palavras em texturas, cores e perfume. Cada entrega é feita à mão, com cuidado de quem entende de afeto. Nossos floristas criam composições únicas usando sempre tons suaves e toques de verde.</p>
-          <a href="info.php" style="color:#a5657e; border-bottom: 2px solid #deef6e; text-decoration: none; padding-bottom: 2px;">conheça nossa história →</a>
+          <a href="info.php">conheça nossa história →</a>
         </div>
         <div class="sobre-imagem">
           <span>mais que flores,<br> sentimentos</span>
@@ -93,12 +93,12 @@
       <div class="faq-item">
         <h5>🚚 FAQ de delivery</h5>
         <p>Entregamos todos os dias, com embalagem ecológica e mensagem personalizada. Áreas de cobertura sempre em expansão.</p>
-        <small>consulte prazos</small>
+        <small><a href="#">consulte prazos</a></small>
       </div>
       <div class="faq-item">
         <h5>📮 contato</h5>
-        <p>central.flwrs@gmail.com / whatsapp (45) 99999-9999. Respondemos com a delicadeza de uma flor.</p>
-        <small>fale conosco</small>
+        <p>central.flwrs@gmail.com / Tiramos suas dúvidas de modo eficiente e rápido.</p>
+        <small><a href="#">fale conosco</a></small>
       </div>
     </section>
   </main>

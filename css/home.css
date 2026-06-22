@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-family: sans-serif;
     background: #fcf8f5;
     color: #3d3835;
     line-height: 1.6;
@@ -388,7 +388,7 @@ header {
 }
 
 .sobre-texto a {
-    color: #e94e77;
+    color: #6d6560;
     text-decoration: none;
     font-size: 0.8rem;
     font-weight: 400;
@@ -399,7 +399,7 @@ header {
 }
 
 .sobre-texto a:hover {
-    border-bottom-color: #e94e77;
+    border-bottom-color: #91b691;
 }
 
 .sobre-imagem {
@@ -508,6 +508,16 @@ header {
 .faq-item:hover small {
     background: rgba(184, 122, 142, 0.06);
     border-color: rgba(184, 122, 142, 0.1);
+}
+
+.faq-item a {
+    color: #6d6560;
+    text-decoration: none;
+    font-size: 0.8rem;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    padding-bottom: 3px;
+    transition: all 0.3s ease;
 }
 
 /* ===== FOOTER ===== */
