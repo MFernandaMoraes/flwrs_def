@@ -11,7 +11,7 @@
     <header>
         <div class="header-flex">
             <div class="logo-area">
-                <div class="logo-word"><strong>flwrs</strong> studio</div>
+                <div class="logo-word">flwrs studio</div>
                 <div class="tagline-header">admin · cultivate</div>
             </div>
             <div class="nav-menu">
