@@ -14,7 +14,7 @@
           flwrs <strong>·</strong>
         </div>
         <div class="tagline-header">
-          “Flowers that feel like feeling” 🌸
+          “Flowers that feel like feeling”
         </div>
       </div>
       <nav class="nav-menu">
