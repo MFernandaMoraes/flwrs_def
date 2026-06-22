@@ -36,6 +36,7 @@ if (isset($_GET['confirm']) && $_GET['confirm'] == 'yes') {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Saindo da Flwrs · confirmação</title>
+    <link rel="stylesheet" href="../css/logout.css">
 </head>
 <body>
     <div class="logout-container">

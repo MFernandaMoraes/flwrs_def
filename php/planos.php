@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Flwrs · assinatura mensal</title>
+  <link rel="stylesheet" href="../css/planos.css">
 </head>
 <body>
   <header>
