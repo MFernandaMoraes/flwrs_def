@@ -34,7 +34,7 @@ h3 {
     letter-spacing: 0.08em;
     text-transform: uppercase;
     margin: 1rem 0 0.6rem;
-    color: #4a4542;
+    color: #f07d9d;
 }
 
 h4 {
@@ -340,15 +340,15 @@ header {
     font-size: 0.65rem;
     font-weight: 500;
     letter-spacing: 0.1em;
-    color: #e94e77;
+    color: #91b691;
     padding-bottom: 4px;
-    border-bottom: 2px solid #f7d6e7;
+    border-bottom: 2px solid #b2e4b3;
     transition: all 0.3s ease;
     text-transform: uppercase;
 }
 
 .card-link:hover {
-    border-bottom-color: #e94e77;
+    border-bottom-color: #91b691;
     opacity: 0.8;
 }
 
@@ -375,7 +375,7 @@ header {
 }
 
 .sobre-texto h4 strong {
-    color: #e94e77;
+    color: #f07d9d;
     font-weight: 500;
 }
 
@@ -475,7 +475,7 @@ header {
 }
 
 .faq-item h5 {
-    color: #e94e77;
+    color: #f07d9d;
     font-size: 1rem;
     font-weight: 500;
     letter-spacing: 0.05em;
@@ -526,7 +526,7 @@ footer p {
 }
 
 footer span {
-    color: #e94e77;
+    color: #91b691;
     font-weight: 400;
 }
 
