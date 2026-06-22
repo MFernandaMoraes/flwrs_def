@@ -15,7 +15,7 @@
                 <div class="logo-word">
 			    flwrs <strong>·</strong>
 		        </div>
-                <div class="tagline-header">carrinho · “Flowers that feel like felling”</div>
+                <div class="tagline-header">carrinho · “Flowers that feel like feeling”</div>
             </div>
             <div class="nav-menu">
                 <a href="home.php">início</a>
@@ -47,7 +47,7 @@
 </main>
 
 <footer>
-    <p>Flwrs — <span>“Flowers that feel like felling”</span> — pequenos gestos, memórias eternas</p>
+    <p>flwrs — <span>“Flowers that feel like feeling”</span> — pequenos gestos, memórias eternas</p>
 </footer>
 
 <script src="../js/carrinho.js"></script>

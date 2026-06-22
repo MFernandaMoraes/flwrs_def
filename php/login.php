@@ -78,7 +78,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <div class="login-box">
         <div class="logo">
             flwrs <strong>·</strong>
-            <small>Flowers that feel like felling</small>
+            <small>Flowers that feel like feeling</small>
         </div>
         
         <h2>Bem-vindo(a)</h2>

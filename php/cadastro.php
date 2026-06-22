@@ -158,7 +158,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         flwrs <strong>·</strong>
                     </div>
                     <div class="tagline-header">
-                        “Flowers that feel like felling”
+                        “Flowers that feel like feeling”
                     </div>
                 </div>
             </div>
@@ -274,7 +274,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </main>
 
 <footer>
-    <p>Flwrs — <span>“Flowers that feel like felling”</span> — pequenos gestos, memórias eternas</p>
+    <p>flwrs — <span>“Flowers that feel like feeling”</span> — pequenos gestos, memórias eternas</p>
 </footer>
 
 <script src="../js/cadastro.js"></script>

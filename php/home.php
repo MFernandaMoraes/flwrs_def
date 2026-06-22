@@ -104,7 +104,7 @@
   </main>
 
 <footer>
-<p>Flwrs — <span>“Flowers that feel like felling”</span> — pequenos gestos, memórias eternas</p>
+<p>flwrs — <span>“Flowers that feel like feeling”</span> — pequenos gestos, memórias eternas</p>
 </footer>
 
 <script src="../js/home.js"></script>
