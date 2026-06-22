@@ -179,7 +179,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Flwrs · cadastro de produtos</title>
+    <title>flwrs · cadastro de produtos</title>
     <link rel="stylesheet" href="../css/cad_produto.css">
 </head>
 <body>
@@ -191,7 +191,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 </a>
                 <div class="logo-area">
                     <div class="logo-word">
-                        Flwrs <strong>·</strong>
+                        flwrs <strong>·</strong>
                     </div>
                     <div class="tagline-header">
                         “Flowers that feel like felling”

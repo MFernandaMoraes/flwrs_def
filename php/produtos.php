@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Flwrs · produtos</title>
+  <title>flwrs · produtos</title>
   <link rel="stylesheet" href="../css/produtos.css">
 </head>
 <body>
@@ -16,7 +16,7 @@
             </a>
             <div class="logo-area">
                 <div class="logo-word">
-                    Flwrs <strong>·</strong>
+                    flwrs <strong>·</strong>
                 </div>
                 <div class="tagline-header">
                     “Flowers that feel like felling”
