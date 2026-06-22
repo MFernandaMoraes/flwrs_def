@@ -3,14 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-    <title>Flwrs · Admin Console</title>
+    <title>flwrs · admin console</title>
+    <link rel="stylesheet" href="../css/admin.css">
 </head>
 <body>
 <div class="container">
     <header>
         <div class="header-flex">
             <div class="logo-area">
-                <div class="logo-word"><strong>Flwrs</strong> studio</div>
+                <div class="logo-word"><strong>flwrs</strong> studio</div>
                 <div class="tagline-header">admin · cultivate</div>
             </div>
             <div class="nav-menu">

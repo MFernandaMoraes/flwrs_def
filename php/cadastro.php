@@ -143,7 +143,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Flwrs · criar conta</title>
+    <title>flwrs · criar conta</title>
+    <link rel="stylesheet" href="../css/cadastro.css">
 </head>
 <body>
     <header>
@@ -154,7 +155,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 </a>
                 <div class="logo-area">
                     <div class="logo-word">
-                        Flwrs <strong>·</strong>
+                        flwrs <strong>·</strong>
                     </div>
                     <div class="tagline-header">
                         “Flowers that feel like felling”

@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-    <title>Flwrs · Seu carrinho de flores</title>
+    <title>flwrs · seu carrinho de flores</title>
+    <link rel="stylesheet" href="../css/carrinho.css">
 </head>
 <body>
 
@@ -12,7 +13,7 @@
         <div class="header-flex">
             <div class="logo-area">
                 <div class="logo-word">
-			    Flwrs <strong>·</strong>
+			    flwrs <strong>·</strong>
 		        </div>
                 <div class="tagline-header">carrinho · “Flowers that feel like felling”</div>
             </div>
