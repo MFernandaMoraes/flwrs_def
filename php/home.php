@@ -3,17 +3,18 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Flwrs · afeto em flor</title>
+  <title>flwrs · afeto em flor</title>
+  <link rel="stylesheet" href="../css/home.css">
 </head>
 <body>
   <header>
     <div class="container header-flex">
       <div class="logo-area">
         <div class="logo-word">
-          Flwrs <strong>·</strong>
+          flwrs <strong>·</strong>
         </div>
         <div class="tagline-header">
-          “Flowers that feel like felling”
+          “Flowers that feel like feeling”
         </div>
       </div>
       <nav class="nav-menu">
@@ -81,7 +82,7 @@
           <a href="info.php" style="color:#a5657e; border-bottom: 2px solid #deef6e; text-decoration: none; padding-bottom: 2px;">conheça nossa história →</a>
         </div>
         <div class="sobre-imagem">
-          <span>mais que flores,<br> abraços</span>
+          <span>mais que flores,<br> sentimentos</span>
         </div>
       </div>
     </section>
