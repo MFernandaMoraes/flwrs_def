@@ -30,7 +30,7 @@
     <!-- admin overview hero (estilo adaptado da home) -->
     <div class="admin-hero">
         <div class="admin-greeting">
-            <h2>Olá, <span>gestor floral</span> 🌸<br> Bem-vindo ao painel Flwrs.</h2>
+            <h2>Bem-vindo ao painel Flwrs.</h2>
             <div class="hero-sub" style="margin-top: 0.8rem; border-left-color: #deef6e; max-width: 480px;">
                 <p>Gerencie pedidos, atualize o catálogo e acompanhe os arranjos com amor e precisão.</p>
             </div>
@@ -103,12 +103,14 @@
     <div class="sobre-preview" style="margin-top: 0.5rem; background: #fefaf5; border-top: 2px dashed #b2e4b3; border-bottom: 2px dashed #deef6e;">
         <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
             <div style="flex:1">
-                <h4 style="font-size: 1.7rem; font-weight: 300; color:#3d3d3d;">Feedbacks <strong style="color:#b65f82;">recentes</strong></h4>
+                <h4 style="font-size: 1.7rem; font-weight: 300; color:#3d3d3d;">Feedbacks<strong style="color:#b65f82;">recentes</strong></h4>
                 <p style="color:#6f625a; margin-bottom: 0.5rem;">“O buquê chegou no timing perfeito, flores fresquíssimas. Administração nota 10!” — Camila R.</p>
                 <p style="color:#6f625a;">“Adorei a experiência de compra, entrega rápida e cuidado nos detalhes. Flwrs é amor.” — Mateus S.</p>
                 <div class="card-link" style="margin-top: 1rem; display: inline-block; background:#f7d5e7; color:#5e424f;" id="msgBtn">✉️ Responder mensagens</div>
             </div>
-            <div style="flex:0.8; background:#f7d5e7; border-radius: 70% 30% 60% 40% / 40% 60% 30% 70%; min-height: 170px; display: flex; align-items: center; justify-content: center; background: linear-gradient(145deg, #deef6e, #b2e4b3, #f7d5e7); background-size: 180% 180%;">
+            <div class="fed-pet"
+                style="flex:0.8; background:#f7d5e7; border-radius: 70% 30% 60% 40% / 40% 60% 30% 70%; min-height: 170px; display: flex; align-items: center;
+                justify-content: center; background: linear-gradient(145deg, #deef6e, #b2e4b3, #f7d5e7); background-size: 180% 180%;">
                 <span style="background:#fefaf5e0; padding: 1rem 2rem; border-radius: 50px; font-size: 1rem;">🌸 gratidão</span>
             </div>
         </div>
@@ -116,8 +118,8 @@
 </div>
 
 <footer>
-    <span>Flwrs studio</span> · cuidado botânico · admin dashboard v1.0<br>
-    <p>Flwrs — <span>“Flowers that feel like felling”</span> — pequenos gestos, memórias eternas</p>
+    <span>flwrs studio</span> · cuidado botânico · admin dashboard v1.0<br>
+    <p>flwrs — <span>“Flowers that feel like felling”</span> — pequenos gestos, memórias eternas</p>
 </footer>
 
 <!-- toast container -->
