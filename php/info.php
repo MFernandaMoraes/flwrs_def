@@ -4,6 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>flwrs · sobre nós</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0,1" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   <link rel="stylesheet" href="../css/info.css">
 </head>
 <body>
@@ -28,6 +30,12 @@
         <a href="produtos.php">Produtos</a>
         <a href="faq.php">FAQ de delivery</a>
         <a href="#" style="color:#c06f8b; border-bottom-color:#f7d5e7;">Sobre nós</a>
+        <a href="carrinho.php" class="cart-link" id="cartNavLink">
+          <div class="cart-icon-wrapper">
+          <i class="fas fa-shopping-bag"></i>
+          <span class="cart-count-badge" id="cartCountBadge">0</span>
+          </div>
+        </a>
         <a href="login.php">Login</a>
       </nav>
     </div>
