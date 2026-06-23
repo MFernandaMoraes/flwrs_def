@@ -337,7 +337,7 @@ main {
 /* ===== INFO RODAPE ===== */
 .info-rodape {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     padding: 2rem 0 1rem;
     border-top: 1px solid rgba(180, 165, 160, 0.06);
