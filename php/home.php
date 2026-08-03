@@ -64,7 +64,7 @@
         <div class="card-icon">💌</div>
         <h3>palavras em flor</h3>
         <p>Entregamos seu recado junto com um arranjo que traduz exatamente o que você sente.</p>
-        <a href="#" class="card-link">PERSONIFICAR</a>
+        <a href="palavras.php" class="card-link">PERSONIFICAR</a>
       </article>
       <article class="card">
         <div class="card-icon">✨</div>

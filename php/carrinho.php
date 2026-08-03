@@ -187,9 +187,7 @@
     }
 
     function finalizarCompra() {
-        alert('Compra finalizada com sucesso! Obrigado por escolher a flwrs 🌸');
-        // Aqui você pode redirecionar para a página de checkout
-        // window.location.href = 'checkout.php';
+        window.location.href = 'final_comp.php';
     }
 
     // Inicializar ao carregar a página
