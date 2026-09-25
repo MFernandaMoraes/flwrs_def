@@ -12,7 +12,7 @@
     <div class="container header-flex">
       <div class="logo-area">
         <div class="logo-word">
-          flwrs <strong>·</strong>
+          flwrs ·
         </div>
         <div class="tagline-header">
           “Flowers that feel like feeling”

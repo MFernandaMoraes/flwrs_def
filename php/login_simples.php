@@ -94,7 +94,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <h3>Usuários cadastrados no banco:</h3>
     <?php
     global $pdo;
-    $users = $pdo->query("SELECT id, email, nome_completo, tipo_usuario FROM usuarios");
+    $users = $pdo->query("SELECT id, email, nome_completo, tipo FROM usuarios");
     echo "<ul>";
     while($user = $users->fetch()) {
         echo "<li>ID: {$user['id']} - Email: {$user['email']} - Nome: {$user['nome_completo']} - Tipo: {$user['tipo_usuario']}</li>";
