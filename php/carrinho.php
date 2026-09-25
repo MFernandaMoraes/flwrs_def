@@ -21,8 +21,8 @@ $flash = getFlash();
             box-shadow: 0 4px 20px rgba(0,0,0,.1);
             animation: slideIn .3s ease-out;
         }
-        .notificacao.sucesso { background: linear-gradient(135deg, #5FA86D, #4A8A58); }
-        .notificacao.erro    { background: linear-gradient(135deg, #D64545, #B83535); }
+        .notificacao.sucesso { background: linear-gradient(135deg, #91b691, #6da06d); }
+        .notificacao.erro    { background: linear-gradient(135deg, #e94e77, #c73e63); }
         @keyframes slideIn {
             from { transform: translateX(120%); opacity: 0; }
             to   { transform: translateX(0);    opacity: 1; }
@@ -33,10 +33,10 @@ $flash = getFlash();
         }
         .cart-empty-icon { font-size: 4rem; display: block; margin-bottom: 1rem; }
         .cart-empty h2 { margin-bottom: .5rem; font-weight: 400; }
-        .cart-empty p { color: #777; margin-bottom: 1.5rem; }
+        .cart-empty p { color: #6d6560; margin-bottom: 1.5rem; }
         .btn-explorar {
             display: inline-block; padding: .8rem 1.6rem;
-            background: linear-gradient(135deg, #e8857d, #f4a8a0);
+            background: #e94e77;
             color: #fff; border-radius: 50px; text-decoration: none;
             font-weight: 600;
         }
